@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add a nice news-style font */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Make headlines pop */
+.news-title {
+  font-weight: 700;
+  line-height: 1.4;
+}

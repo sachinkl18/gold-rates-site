@@ -1,0 +1,6 @@
+{
+  "/api/silver/route": "app/api/silver/route.js",
+  "/api/ticker/route": "app/api/ticker/route.js",
+  "/api/stocks/route": "app/api/stocks/route.js",
+  "/api/gold/route": "app/api/gold/route.js"
+}
